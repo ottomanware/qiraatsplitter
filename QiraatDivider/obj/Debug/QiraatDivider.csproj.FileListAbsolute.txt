@@ -1,0 +1,28 @@
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\bin\Debug\QiraatDivider.exe.config
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\Interop.WMPLib.dll
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.csproj.ResolveComReference.cache
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.csprojResolveAssemblyReference.cache
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.Form1.resources
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.Properties.Resources.resources
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.csproj.GenerateResource.Cache
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\bin\Debug\QiraatDivider.exe
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\bin\Debug\QiraatDivider.pdb
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\bin\Debug\Interop.WMPLib.dll
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.exe
+C:\Users\Özkan TÜZEMEN\Documents\Visual Studio 2010\Projects\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.pdb
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\bin\Debug\QiraatDivider.exe.config
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\Interop.WMPLib.dll
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.csproj.ResolveComReference.cache
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.exe
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.pdb
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\bin\Debug\QiraatDivider.exe
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\bin\Debug\QiraatDivider.pdb
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\bin\Debug\Interop.WMPLib.dll
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.csprojResolveAssemblyReference.cache
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.Form1.resources
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.Properties.Resources.resources
+C:\Users\ozkan\Desktop\lll\QiraatDivider\QiraatDivider\obj\Debug\QiraatDivider.csproj.GenerateResource.Cache
